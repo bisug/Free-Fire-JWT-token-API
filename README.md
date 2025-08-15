@@ -54,7 +54,7 @@ GET /token?uid={uid}&password={password}
 
 ## 📦 Example Request
 ```http
-GET https://ff-jwt-api-lake.vercel.app/token?uid=3562381559&password=AF18F2EB5A410D815F54B16EAEAC369FC027E96925005A629E90A823996B0240
+GET https://sumi-jwt-01.vercel.app/token?uid=3562381559&password=AF18F2EB5A410D815F54B16EAEAC369FC027E96925005A629E90A823996B0240
 ```
 
 ---
