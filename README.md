@@ -7,7 +7,34 @@ A simple API to generate JWT tokens for Free Fire accounts using UID and passwor
 
 ## 🌐 Base URL
 ```
-https://ff-jwt-api-lake.vercel.app
+https://sumi-jwt-01.vercel.app 
+```
+```
+https://sumi-jwt-02.vercel.app 
+```
+```
+https://sumi-jwt-03.vercel.app 
+```
+```
+https://sumi-jwt-04.vercel.app 
+```
+```
+https://sumi-jwt-05.vercel.app 
+```
+```
+https://sumi-jwt-06.vercel.app 
+```
+```
+https://sumi-jwt-07.vercel.app 
+```
+```
+https://sumi-jwt-08.vercel.app 
+```
+```
+https://sumi-jwt-09.vercel.app 
+```
+```
+https://sumi-jwt-10.vercel.app 
 ```
 
 ---
